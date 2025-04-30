@@ -15,17 +15,18 @@ _B.Sc., Computer Science_ (expected 2027)
 
 ## 📚 Completed Courses
 
-- Python
-- C / C++
-- Object-Oriented Programming (OOP)
-- Data Structures
-- Operating Systems
-- Computer Networks
-- Machine Learning
 - Algorithms
-- Computational Models
-- Databases
 - Bayesian Machine Learning
+- C / C++
+- Computational Models
+- Computer Cons. Workshop: From Nand to Tetris
+- Computer Networks
+- Databases
+- Data Structures
+- Machine Learning
+- Object-Oriented Programming (OOP)
+- Operating Systems
+- Python
 
 ---
 
