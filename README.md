@@ -9,7 +9,7 @@ Passionate about building robust systems, learning new technologies, and solving
 ## 🎓 Education
 
 **The Hebrew University of Jerusalem**  
-_B.Sc., Computer Science_ (expected 2027)
+_B.Sc., Computer Science_ 
 
 ---
 
